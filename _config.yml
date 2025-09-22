@@ -1,1 +1,5 @@
-
+# _config.yml
+title: "Your Site Title"
+description: "One-line tagline for your site."
+theme: jekyll-theme-cayman   # swap to any supported theme
+# Optional: set a nav and social links in your pages’ front matter (see below)
